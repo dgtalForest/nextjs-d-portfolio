@@ -1,0 +1,43 @@
+=========================================
+https://www.upwork.com/agencies/procoders
+=========================================
+
+FrontEgg SaaS App
+
+Completion date: MAY 31, 2020
+
+Web Development
+
+React , Redux Saga , Node.js , TypeScript , Cypress , Storybook , Docker , webpack , WordPress , Elementor , Redux
+
+Frontegg empowers account administrators to manage their teams, implement their own granular permission and access policies, and enforces them across an entire organization down to a single user. Frontegg provides ready-to-use UI solutions for data logging, user authorizations, notification management, and cloud architecture for data management.
+
+Dashboard for component customization 
+UI components for customers integration
+Microservice architecture for data management
+
+React.js, TypeScript, Node.js, Docker, Webpack, Redux, Redux-saga, Formik, Nivo, Storybook, Cypress, Jest
+
+https://frontegg.com/
+
+*** tech stack icons ***
+
+
+ExitLag Web App
+Close the dialog
+Web Development
+webpack , Redis , Laravel , Docker , Cloudflare , PayPal , Sass , Vuex , Vue.js , Node.js
+ExitLag brings superior quality and speed through multipath data delivery. ExitLag is a proprietary technology that optimizes data routing by instantaneously mapping out various routes and sending the packet through the optimal one! In case one route becomes unstable, the others kick in keeping the game connection unphased.
+
+
+- Generic database for web app
+- Custom Admin panel
+- Google Tag Manager integration
+- Facebook Pixel integration
+- Docker Ecosystem
+
+
+
+
+
+https://boards.greenhouse.io/outlier/jobs/4362304005
