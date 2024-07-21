@@ -1,4 +1,4 @@
-export const NAME = 'Adrian H. Lin';
+export const NAME = 'Jose Manuel Gonzalez';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 

@@ -1,16 +1,13 @@
-  <h2 align="center">Adrian H. Lin - Personal portfolio</h2>
+  <h2 align="center">Jose Manuel Gonzalez - Personal portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://jose-gonzalez.vercel.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
-
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -25,13 +22,13 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/osamajavaid/portfolio.git
+sudo git clone https://github.com/dgalforest/portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/osamajavaid/portfolio.git
+git clone https://github.com/dgalforest/portfolio.git
 ```
 
 ### Contact
